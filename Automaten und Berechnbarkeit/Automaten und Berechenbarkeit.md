@@ -1,109 +1,3 @@
-[[Automaten und Berechenbarkeit#1. Kapitel Sprachen und Grammatiken|1. Kapitel Sprachen und Grammatiken]]
-	[[Automaten und Berechenbarkeit#1.1 Grammatik] |1.1 Grammatik]]
-		[[Automaten und Berechenbarkeit#1.1.1 Alphabet und Wörter |1.1.1 Alphabet und Wörter]]
-			[[Automaten und Berechenbarkeit#Definition 1.1.1.1|Definition 1.1.1.1]]
-			[[Automaten und Berechenbarkeit#Definition 1.1.1.2|Definition 1.1.1.2]]
-			[[Automaten und Berechenbarkeit#Definition 1.1.1.3|Definition 1.1.1.3]]
-			[[Automaten und Berechenbarkeit#Operationen auf Wörter|Operationen auf Wörter]]
-			[[Automaten und Berechenbarkeit#Potenz von Wörtern]|Potenz von Wörtern]]
-			[[Automaten und Berechenbarkeit#Relationen für Wörter (über $( sum) *$)|Relationen für Wörter]]
-		[[Automaten und Berechenbarkeit#1.1.2 Formale Sprache|1.1.2 Formale Sprache]]
-			[[Automaten und Berechenbarkeit#Definition 1.1.2.1]]
-			[[Automaten und Berechenbarkeit#Operationen auf Sprachen|Operationen auf Sprachen]]
-	[[Automaten und Berechenbarkeit#1.2 Einführung|1.2 Einführung]]
-[[Automaten und Berechenbarkeit#2. Kapitel Reguläre Sprachen|2. Kapitel Reguläre Sprachen]]
-	[[Automaten und Berechenbarkeit#2.1 Endliche Automaten|2.1 Endliche Automaten]]
-		[[Automaten und Berechenbarkeit#Definition 2.1.1|Definition 2.1.1]]
-		[[Automaten und Berechenbarkeit#Satz 2.1.3|Satz 2.1.3]]
-		[[Automaten und Berechenbarkeit#Satz 2.1.4|Satz 2.1.4]]
-		[[Automaten und Berechenbarkeit#Satz 2.1.5|Satz 2.1.5]]
-		[[Automaten und Berechenbarkeit#Satz 2.1.6|Satz 2.1.6]]
-	[[Automaten und Berechenbarkeit#2.2 NFA|2.2 NFA]]
-		[[Automaten und Berechenbarkeit#Definition 2.2.1|Definition 2.2.1]]
-		[[Automaten und Berechenbarkeit#Definition 2.2.2|Definition 2.2.2]]
-		[[Automaten und Berechenbarkeit#Definition 2.2.3|Definition 2.2.3]]
-		[[Automaten und Berechenbarkeit#Satz 2.2.4|Satz 2.2.4]]
-		[[Automaten und Berechenbarkeit#Satz 2.2.5|Satz 2.2.5]]
-	[[Automaten und Berechenbarkeit#2.3 Reguläre Ausdrücke|2.3 Reguläre Ausdrücke]]
-		[[Automaten und Berechenbarkeit#Definition 2.3.1|Definition 2.3.1]]
-		[[Automaten und Berechenbarkeit#Definition 2.3.2|Definition 2.3.2]]
-		[[Automaten und Berechenbarkeit#Lemma 2.3.3|Lemma 2.3.3]]
-		[[Automaten und Berechenbarkeit#Satz 2.3.4 (Satz von Kleene)|Satz 2.3.4 (Satz von Kleene)]]
-		[[Automaten und Berechenbarkeit#Folgerung 2.3.5|Folgerung 2.3.5]]
-	[[Automaten und Berechenbarkeit#2.4 Das Pumping Lemma|2.4 Das Pumping Lemma]]
-		[[Automaten und Berechenbarkeit#Satz 2.4.1 Pumping Lemma|Satz 2.4.1 Pumping Lemma]]
-	[[Automaten und Berechenbarkeit#2.5 <u>Minimalautomaten</u> <u>und</u> <u>Äquivalenzrelationen</u>|2.5 Minimalautomaten und Äquivalenzrelationen]]
-		[[Automaten und Berechenbarkeit#Definition 2.5.1|Definition 2.5.1]]
-		[[Automaten und Berechenbarkeit#Satz 2.5.2 (Myhil Neurode)|Satz 2.5.2 (Myhil Neurode)]]
-	[[Automaten und Berechenbarkeit#2.6 Abschlusseigenschaften|2.6 Abschlusseigenschaften]]
-		[[Automaten und Berechenbarkeit#Definition 2.6.1|Definition 2.6.1]]
-[[Automaten und Berechenbarkeit#3. Kapitel Kontextfreie Sprachen|3. Kapitel Kontextfreie Sprachen]]
-		[[Automaten und Berechenbarkeit#Satz 3.0.1|Satz 3.0.1]]
-	[[Automaten und Berechenbarkeit#3.1 Die Chomsky-Normalform|3.1 Die Chomsky-Normalform]]
-		[[Automaten und Berechenbarkeit#Definition 3.1.1|Definition 3.1.1]]
-		[[Automaten und Berechenbarkeit#Satz 3.1.2|Satz 3.1.2]]
-		[[Automaten und Berechenbarkeit#Definition 3.1.2|Definition 3.1.2]]
-		[[Automaten und Berechenbarkeit#Satz 3.1.3|Satz 3.1.3]]
-	[[Automaten und Berechenbarkeit#3.2 Pumping Lemma für Kontextfreie Sprachen|3.2 Pumping Lemma für Kontextfreie Sprachen]]
-		[[Automaten und Berechenbarkeit#Satz 3.2.1|Satz 3.2.1]]
-		[[Automaten und Berechenbarkeit#Lemma 3.2.2|Lemma 3.2.2]]
-	[[Automaten und Berechenbarkeit#3.3 Abschlusseigenschaften|3.3 Abschlusseigenschaften]]
-		[[Automaten und Berechenbarkeit#Satz 3.3.1|Satz 3.3.1]]
-[[Automaten und Berechenbarkeit#5. Kapitel Berechenbarkeit|5. Kapitel Berechenbarkeit]]
-	[[Automaten und Berechenbarkeit#<u>5.1 Intuitiver Begriff der Berechnbarkeit</u>|5.1 Intuitiver Begriff der Berechnbarkeit]]
-	[[Automaten und Berechenbarkeit#<u>5.2 Grundlagen</u>|5.2 Grundlagen]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 5.2.1 </span>|Satz 5.2.1]]
-	[[Automaten und Berechenbarkeit#<u>5.3 Turing Berechnbarkeit</u>|5.3 Turing Berechnbarkeit]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 5.3.1</span>|Definition 5.3.1]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 5.3.2</span>|Definition 5.3.2]]
-	[[Automaten und Berechenbarkeit#<u>5.4 Andere Typen von Turingmaschinen</u>|5.4 Andere Typen von Turingmaschinen]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 5.4.1 </span>|Satz 5.4.1]]
-	[[Automaten und Berechenbarkeit#<u>5.5 Die Churchsche These</u>|5.5 Die Churchsche These]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">These 5.5.1 Churche These</span>|These 5.5.1 Churche These]]
-	[[Automaten und Berechenbarkeit#<u>5.6 Deterministische und nicht deterministische TM</u>|5.6 Deterministische und nicht deterministische TM]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 5.6.1</span>|Satz 5.6.1]]
-[[Automaten und Berechenbarkeit#6. Kapitel Entscheidbarkeit und Aufzählbarkeit|6. Kapitel Entscheidbarkeit und Aufzählbarkeit]]
-	[[Automaten und Berechenbarkeit#<u>6.1 Entscheidbarkeit</u>|6.1 Entscheidbarkeit]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 6.1.1</span>|Definition 6.1.1]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.1.2</span>|Satz 6.1.2]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.1.3</span>|Satz 6.1.3 REC ist abgeschlossen bezüglich]]
-	[[Automaten und Berechenbarkeit#<u>6.2 Semi-Entscheidbarkeit und Aufzählbarkeit</u>|6.2 Semi-Entscheidbarkeit und Aufzählbarkeit]]
-		[[Automaten und Berechenbarkeit#Definition 6.2.1|Definition 6.2.1]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 6.2.2</span>|Definition 6.2.2]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.2.3</span>|Satz 6.2.3]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Folgerung 6.2.4</span>|Folgerung 6.2.4]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.2.5</span>|Satz 6.2.5]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.2.6</span> $REC nsubseteq RE$|Satz 6.2.6]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.2.7:</span>|Satz 6.2.7]]
-	[[Automaten und Berechenbarkeit#<u>6.3 Beziehung zwischen REC und RE</u>|6.3 Beziehung zwischen REC und RE]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.3.1</span>|Satz 6.3.1]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.3.2</span>|Satz 6.3.2]]
-	[[Automaten und Berechenbarkeit#<u>6.4 Kodierung von Turingmaschinen über{0,1}</u>|6.4 Kodierung von Turingmaschinen über{0,1}]]
-	[[Automaten und Berechenbarkeit#<u>6.5 Das Halteproblem</u>|6.5 Das Halteproblem]]
-		[[Automaten und Berechenbarkeit#<u style="color:gray">6.5.1 Problemstellung und intuitive Argumentation</u>|6.5.1 Problemstellung und intuitive Argumentation]]
-		[[Automaten und Berechenbarkeit#<u style="color:gray">6.5.2 Formale Argumentation mittels TM</u>|6.5.2 Formale Argumentation mittels TM]]
-			[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 6.5.2.1</span>|Definition 6.5.2.1]]
-			[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.5.2.2</span> $A_{TM} notin REC$|Satz 6.5.2.2]]
-			[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.5.2.3</span> $REC nsubseteq RE$|Satz 6.5.2.3]]
-			[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.5.2.4</span>|Satz 6.5.2.4]]
-			[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 6.5.2.5</span>|Satz 6.5.2.5]]
-[[Automaten und Berechenbarkeit#7. Kapitel - NP Vollständigkeit]]
-	[[Automaten und Berechenbarkeit#<u style="color:gray">7.1 Die Klasse P</u>|7.1 Die Klasse P]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 7.1.1</span>|Definition 7.1.1]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 7.1.2</span>|Definition 7.1.2]]
-	[[Automaten und Berechenbarkeit#<u style="color:gray">7.2 Die Klasse NP (nicht-deterministisch-polynomial)</u>|7.2 Die Klasse NP (nicht-deterministisch-polynomial)]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 7.2.1</span>|Definition 7.2.1]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 7.2.2</span>|Definition 7.2.2]]
-	[[Automaten und Berechenbarkeit#<u style="color:gray">c</u>|7.3 NP-Vollständigkeit]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 7.3.1</span>|Definition 7.3.1]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Definition 7.3.2</span>|Definition 7.3.2]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 7.3.3</span>|Satz 7.3.3]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 7.3.4</span>|Satz 7.3.4]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 7.3.5</span>|Satz 7.3.5]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 7.3.6</span>|Satz 7.3.6]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 7.3.7</span>|Satz 7.3.7]]
-		[[Automaten und Berechenbarkeit#<span style="color:gray">Satz 7.3.8</span>|Satz 7.3.8]]
-
 
 Geschrieben von Cora Zeitler, Maximilian Ackert 
 
@@ -123,7 +17,7 @@ $\sum_{griech}:=\{\alpha,\beta,\gamma,...\}$
 $\sum_{binär}:=\{0,1\}$
 $\sum_{Ziff}:=\{0,1,2,...,9\}$
 $\sum_{Tastatur}:=\{a,b,c,...,z\}$
-$\cup\{A,B,...,Z\}$
+$\cup\{A,B,...,Z\}$ 
 $\cup\{ä,...,Ä,...\}$
 $\cup\{0,...,9\}\cup\{?,!,.,\}\cup\{\sqcup\}$
 
@@ -1439,7 +1333,7 @@ Grammatiken mit $N_1\cap N_2=\emptyset$ und $\mathscr{L}(G_1)=A$ und $\mathscr{L
 5) Wenn $CF$ bezüglich Komplement abgeschlossen. So musste $CF$ wegen $A\cap B =\neg(\neg A\cup\neg B)$
 6) $A\cap B=A\cup B\backslash\big((A\backslash B)\cup(B\backslash A)\big)$
 
-### <u>3.4 Nicht deterministischer Kellerautomat(Push-Down-Automaton)</u>
+## <u>3.4 Nicht deterministischer Kellerautomat(Push-Down-Automaton)</u>
 
 $$
 \{a^nb^n|n\ge0\}\in CF~\downarrow~Zähler~wird~gebraucht\downarrow Stack
@@ -1560,7 +1454,8 @@ $$
 ##### Definition 3.4.5
 
 Sei $M=\{\Sigma,\Gamma,Z,\delta,z_0,z_E\}$ ein PDA
-Wir sagen M akzeptiert mit leerem Keller, wenn $$
+Wir sagen M akzeptiert mit leerem Keller, wenn 
+$$
 A=
 \mathscr{L}(M)=
 \{
@@ -1621,7 +1516,7 @@ $\rightarrow$ Es gilt nun für alle $w\in\Sigma^*$
 $w\in A\Leftrightarrow w\in\mathscr{L}(G)$
 $\Leftrightarrow$ Es gibt eine linksableitung der Form
 $S\vdash_G\alpha,...,\alpha_n\vdash_G w$
-$\Leftrightarrow$ Es gibt eine Folge von Konfigurationen von M mit $(z,w,\Box)\vdash(z,w,\delta)\vdash...\vdash(z,\lambda,\lambda$
+$\Leftrightarrow$ Es gibt eine Folge von Konfigurationen von M mit $(z,w,\Box)\vdash(z,w,\delta)\vdash...\vdash(z,\lambda,\lambda)$
 $\Leftrightarrow$ w wird von M mit leerem Keller akzeptiert
 
 "$\underset{3.4.8}{\Leftarrow}$": Sei $A\subseteq\Sigma$ und $M=\{\Sigma,\Gamma,Z,\delta,z_0,z_E\}$ ein PDA mit 
@@ -1841,22 +1736,7 @@ Tabelle $T[1...n,1...n]$, für $j=1...n$ und $i=1...n+j-1$ stehen in $T[i,j]$ al
 
 Eingabewort: $x=a_1...a_n\in\mathscr{L}(G)$ gdw. $S\in[1,n]$
 
-1.	for $i = 1$ to $n$ do
-2.		$T[i,1]:=\{A\in V|A\rightarrow a_i\in R\}$
-3.	end for
-4.	for $j = 2$ to $n$ do
-5.		for $i=1$ to $n+1-j$ do
-6.			$T[i,j]:=\emptyset$
-7.			for $k=1$ to $j-1$ do
-8.				$T[i,j]:=T[i,j]\cup\{A\in V|A\rightarrow BC\in R\wedge B\in T[i,k]\wedge C\in T[i+k,j-k]\}$ 
-9.			end for
-10.		end for
-11.	end for
-12.	if $S\in T[1,n]$
-13.		print("$x$ liegt in $L(G)$")
-14.	else
-15.		print("$x$ liegt nicht in $L(G)$")
-16.	end if
+![[Im51.png]]
 
 <u>Bsp:</u>
 $\mathscr{L}=\{0^n10^m|n,m\in\mathbb{N},n>m\}$
@@ -1877,12 +1757,13 @@ $N_0\rightarrow 0$
 $N_1\rightarrow 1\}$
 
 Tabelle:
-| |0|0|0|1|0|
+
+|⠀|0|0|0|1|0|
 |---|---|---|---|---|---|
-|1|$N_0$|$N_0$|$N_0$|$N_1$|$N_0$
-|2|$\emptyset$|$\emptyset$|$A,S$|$\emptyset$
-|3|$\emptyset$|$A,S$|$T$
-|4|$A,S$|$S,T$
+|1|$N_0$|$N_0$|$N_0$|$N_1$|$N_0$|
+|2|$\emptyset$|$\emptyset$|$A,S$|$\emptyset$|
+|3|$\emptyset$|$A,S$|$T$|
+|4|$A,S$|$S,T$|
 |5|$S$|
 
 # 4. Kapitel kontextsensitive und Typ 0 Sprachen
@@ -1973,10 +1854,11 @@ $\rightarrow\alpha'~z'~\beta'$ geht in einem Schritt weiter aus $\alpha~z~\beta$
 	- $K_1\vdash_M^* K_2...K_1$ geht in endlich vielen Schritten in $K_2$ über
 	- $K_1\vdash_M^*K_2$ gdw. $\underset{n\in\mathbb{N}}{\bigvee}\underset{Q_1...Q_n}{\bigvee}~~K_1\vdash Q_1\wedge Q_1\vdash Q_2,...,Q_n\vdash K_2$
 - $z_0$ $w.....$ Startkonfiguration bei Eingabe $w=a_1...a_n$
-| |$u_1$|$u_2$|$...$|
+
+|⠀|$u_1$|$u_2$|$...$|
 |---|---|---|---|
-     $\uparrow$
-     $z_0$   $w=a_1...a_n$
+ ⠀⠀⠀$\uparrow$
+   $z_0$   $w=a_1...a_n$
 
 Sei $w\in\Sigma^*$ eine Berechnung von $m$ für $w$ ist eine maximale (nciht verlängernde) Folge
 $\rightarrow z_0w\vdash\alpha_1z_1\beta_1\vdash...$ von Konfigurationen
@@ -2020,7 +1902,7 @@ $M=\big\{ \{a,b,c\},\{a,b,c,\$,\square\},\{z_0,z_1,z_2,...,z_5,z_e\},\delta,z_0,
 
 |$\square$|a|a|a|b|b|b|c|c|$\square$|
 |---|---|---|---|---|---|---|---|---|---|
-		$\uparrow_{z_0}$
+⠀ ⠀ ⠀$\uparrow_{z_0}$
 $\rightarrow$ \$aa\$bb\$c$\square$ $\Leftrightarrow$ \$\$a\$\$b\$\$$\square$ 
 
 | |$z_0$| |$z_1$| |$z_2$| |$z_3$| |$z_4$ |$z_5$|$z_6$|
@@ -2352,7 +2234,8 @@ Es gibt Funktionen(bereits in $\tilde{\mathbb{F}}_1$) die noch nicht berechenbar
 
 - Wie sehen sie denn nur aus, die nicht berechenbaren Funktionen?
 
-$\rightarrow$ Versuche: $$ f_1(n)=\begin{cases}
+$\rightarrow$ Versuche: 
+$$ f_1(n)=\begin{cases}
 1 & falls~Anfangsabschnitt~der~Dezimalbruchentwicklung~von~\pi~ist\\
 0 & sonst
 \end{cases}
@@ -2813,6 +2696,7 @@ $$\Big\Downarrow$$
 
 - letzter Satz von Fermat
 	- Es gibt kein $k>2$ für das es $(x,y,z)\in\mathbb{N}^3$ gibt mit $x^k+y^k=z^k$
+
 | |1| |2| |3|
 |---|---|---|---|---|---|
 |<b>1</b>|1||3|$\rightarrow$|4
@@ -2828,6 +2712,7 @@ $$\Big\Downarrow$$
 		$\rightarrow A_0,A_1,A_2,...$ Auflistung aller Algorithmen, die als Eingabe eine natürliche Zahl haben
 
 Halteproblemtabelle:
+
 |$\frac{Eingabe}{Ausgabe}$|0|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|---|
 |$A_0$|$J$|$N$|$J$|$J$|$N$|||
@@ -3052,7 +2937,9 @@ $\rightarrow$ ohne Beweis
 $SAT\in NP$ Belegung raten und $I_\beta(F)$ bestimmen
 $\rightarrow$ zu zeigen: für alle $A\in NP$ gilt $A\le_p SAT$
 <u>Idee:</u> Arbeitsweise einer nichtdeterministischer TM durch eine Formel beschreiben
-3-$SAT=\{<F>|F~ist~erfüllbare~Formel~in~konjunktiver~Normalform~mit~höchstens~3~liberalen~pro~Klausel\}$Man kann zeigen: $SAT\le_p 3SAT$
+$3-SAT=\{<F>|F~ist~erfüllbare~Formel~in~konjunktiver$
+$~Normalform~mit~höchstens~3~liberalen~pro~Klausel\}$
+Man kann zeigen: $SAT\le_p 3SAT$
 
 ##### <span style="color:gray">Satz 7.3.7</span> Cook, Levin
 
@@ -3120,7 +3007,7 @@ blaue und rote Quadrate
 
 (4) Klauselkomponente
 
-$x_1\wedge\neg\neg x_2\wedge\neg x_3$
+$x_1\vee\neg\neg x_2\vee\neg x_3$
 
 Schleifen für $x_1$ deckt im Falle der blauen (TRUE) Belegung den zusätzlichen Punkt ab. Schleifen für $x_2$ und $x_3$ im Falle der FALSE-Belegung
 
